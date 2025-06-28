@@ -2,7 +2,6 @@
 
 A basic data analysis project built using Python, pandas, and matplotlib. This notebook demonstrates simple data handling, visualization, and exploratory analysis practices for learning or demonstration purposes.
 
-![Project Banner](./your-image-name.png)
 
 ## 🚀 Features
 
@@ -39,4 +38,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-Made with ❤️ by [Kris Strong](https://github.com/yourusername)
+Made  by [Kris Strong](https://github.com/krisstrong)
